@@ -13,4 +13,4 @@ The game idea is a mash-up of the finalists that was generated during the brains
 - You're a metal milk jug whose objective is to knock down as many cows as you can.
 - Meteor either trying to dodge or hit planets in the solar system or galaxy.
 
-Developed in Unreal Engine 4
+Developed with Unreal Engine 4 over two weeks.
